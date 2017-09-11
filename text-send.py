@@ -8,8 +8,8 @@ auth_token  = "c62240dbf1d1536a987b1728d1f8fce5"
 client = rest.Client(account_sid, auth_token)
 
 message = client.messages.create(
-    to="+917992485xxx",
-    from_="+13135286xxx",
+    to="+917992485XXX",
+    from_="+13135286XXX",
     body="hi i m trying to send this message from pythom -shubham")
 
 print(message.sid)
