@@ -1,6 +1,6 @@
 ## TEXT SENDER
 
-Send _text_ directly from your computer to **mobile numbers**
+Send _text_ directly from your computer to **mobile numbers** using twilio API
 
 ## INSTALL
 
